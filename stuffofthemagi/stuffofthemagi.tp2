@@ -38,6 +38,10 @@ LANGUAGE ~Italiano (traduzione di ilot)~
          ~stuffofthemagi/lang/italian/setup.tra~
          ~stuffofthemagi/lang/italian/strings.tra~
 
+LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
+         ~polish~
+         ~stuffofthemagi/lang/polish/setup.tra~
+         ~stuffofthemagi/lang/polish/strings.tra~
 
 /* ============================================================================== *
  *          COMPOSANT PRINCIPAL  -  MAIN COMPONENT  :  Stuff of the Magi          *
