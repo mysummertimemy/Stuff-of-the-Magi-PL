@@ -1,0 +1,339 @@
+/* ================= *
+ *  Usability flags  *
+ * ================= */
+@9001 = ~Mo¿e u¿ywaæ:~
+@9002 = ~Nie mo¿e u¿ywaæ:~
+
+/* ================= *
+ *  Character names  *
+ * ================= */
+@107 = ~Erevain Beraskana~
+
+/* ======= *
+ *  Items  *
+ * ======= */
+
+@109 = ~P³aszcz magów~
+@111 = ~Erevain Beraskana stworzy³ P³aszcz magów, podobnie jak pozosta³e artefakty wchodz¹ce w sk³ad tego zestawu. Wœród Najwy¿szych Magów Suldanessellaru uchodzi³ za indywidualistê. Ju¿ na wiele stuleci przed Czasem Niepokojów w³ada³ Splotem w sposób, który dziœ nazwano by dzik¹ magi¹.
+
+Po studiach w Candlekeep sta³ siê znawc¹ proroctw Alaunda dotycz¹cych Dzieci Bhaala i przewidzia³, ¿e nadchodz¹cy okres zamêtu mo¿e zagroziæ elfickiemu sposobowi ¿ycia. Z powodów znanych tylko sobie podarowa³ p³aszcz elfickiemu Najwy¿szemu Magowi Jonelethowi – póŸniejszemu Wygnañcowi Irenicusowi – krótko przed w³asn¹ œmierci¹ w bitwie z drowami spod Ust Natha, dwa stulecia temu.
+
+Irenicus nigdy nie ceni³ tego przedmiotu z uwagi na osobê, od której go otrzyma³, i przekaza³ go póŸniej swojemu uczniowi, Suneerowi.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+
+Waga: 1~
+
+
+@113 = ~Pierœcieñ magów~
+@115 = ~Ten jedyny w swoim rodzaju pierœcieñ zosta³ stworzony przez arcymaga Erevaina Beraskanê jako przedostatni artefakt w ramach tworzenia legendarnych Regaliów magów.
+
+Nied³ugo po jego ukoñczeniu Erevain stan¹³ naprzeciw Lavoka Corthali – nekromanty, którego Kula sfer nawiedzi³a Faerun po raz ostatni niemal dwa stulecia temu. Ich pojedynek trwa³ krótko: nawet we w³asnej domenie Lavok nie by³ w stanie sprostaæ potêdze elfiego arcymaga. Po zwyciêstwie Erevain podj¹³ rozmowê z przeciwnikiem. Wiadomo jedynie, ¿e to Lavok wszed³ w posiadanie pierœcienia, choæ brak talentu do dzikiej magii nie pozwala³ mu czerpaæ z niego pe³ni mocy.
+
+Jak¹ zap³atê otrzyma³ Erevain – jeœli w ogóle jak¹kolwiek – pozostaje tajemnic¹.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Premia do tabeli dzikiej energii: +10
+– Szybkoœæ rzucania zaklêæ: +2
+– Pozwala zapamiêtaæ po jednym dodatkowym zaklêciu maga z poziomów 1, 2 i 7
+– Niewra¿liwoœæ na wyssanie poziomów
+
+Waga: 1~
+
+
+@117 = ~Szata magów~
+@119 = ~Szata magów to ostatni i najpotê¿niej zaklêty element Regaliów magów, ukoñczony przez Erevaina Beraskanê ponad dwa stulecia temu. Jak zwykle w przypadku jego dzie³, artefakt nie pozosta³ d³ugo w jego posiadaniu.
+
+Podczas jednego z licznych pojedynków z nekromantami trop zaprowadzi³ Erevaina do lisza Vongoethego. Magiczne starcie, do którego  doprowadzi³o ich spotkanie, przybra³o iœcie epicki wymiar. Co osobliwe, podobnie jak w innych tego typu spotkaniach, pojedynek zakoñczy³ siê remisem. Gdy magia nie przynios³a rozstrzygniêcia, obaj magowie podjêli rozmowê, a jej skutkiem by³o to, ¿e Erevain opuœci³ pole bitwy ubo¿szy o kolejny artefakt.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: 2
+– Odpornoœæ na magiê: +25%
+– Rzuty obronne: +3 przeciw czarom
+
+Waga: 3~
+
+
+@121 = ~Amulet magów~
+@123 = ~Amulet magów by³ pierwszym artefaktem wykonanym przez elfiego arcymaga Erevaina Beraskanê. Nosi³ go od dnia stworzenia a¿ po schy³ek ¿ycia, po czym przekaza³ go swojemu ostatniemu uczniowi – Vithalowi.
+
+Nied³ugo póŸniej Erevain poleg³ w bitwie z drowami. Vithal, który sam pad³ ofiar¹ zaklêcia uwiêzienia w Podmroku, zaniós³ amulet wyznawcom Helma strzeg¹cym Twierdzy Stra¿nika. Powody tej decyzji pozostaj¹ nieznane.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów Magów. Mówi siê, ¿e pe³en komplet u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Szybkoœæ rzucania zaklêæ: +2
+– Niewra¿liwoœæ na petryfikacjê
+– Rzuty obronne: +1 przeciw polimorfii
+– Rzuty obronne: +1 przeciw zioniêciom
+
+Waga: 0~
+
+
+@125 = ~Buty magów~
+@127 = ~Buty magów powsta³y, by wspieraæ czarodzieja w nieustannej pogoni za doskona³oœci¹ umys³u. Znane s¹ przekazy o pojedynku Erevaina z demiliszem Kangaxxem. Choæ przyczyna spotkania pozostaje tajemnic¹, ich starcie zakoñczy³o siê remisem.
+
+Po przerwaniu walki obaj magowie przez chwilê prowadzili rozmowê, po czym Erevain pozostawi³ swoje drogocenne buty Kangaxxowi. Co otrzyma³ w zamian – nie wiadomo.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Dwukrotnie zwiêkszaj¹ prêdkoœæ poruszania siê
+– Akceleracja, raz dziennie
+
+Waga: 2~
+
+
+@129 = ~Kostur magów~
+@131 = ~Kostur magów jest symbolem mistrzostwa w czarodziejstwie – ukoronowaniem lat studiów i z³o¿onych zaklêæ. Spoœród wielu takich kijów ka¿dy jest wyj¹tkowy, lecz ten konkretny stworzy³ sam Najwy¿szy Mag Erevain Beraskana.
+
+Jak kostur trafi³ w rêce Layene ze Spaczonej Runy, pozostaje tajemnic¹.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Niewidzialnoœæ
+– Niewra¿liwoœæ na zauroczenie
+– Ochrona przed z³em
+– Rozproszenie magii po trafieniu
+– Uderza jako broñ +5
+
+W³aœciwoœci ³adunków:
+– Po³¹czenie Ognistej kuli i B³yskawicy, trzy razy dziennie
+Ognista kula: 10k6 obra¿eñ od ognia w promieniu 5 metrów (po³owa po rzucie obronnym przeciw czarom)
+B³yskawica: 10k6 obra¿eñ od elektrycznoœci przeciw wszystkim, którzy stoj¹ jej na drodze (po³owa po rzucie obronnym przeciw czarom)
+Zasiêg: 45 metrów
+
+– Pu³apka na czary, raz dziennie
+Czas dzia³ania: 8 godzin lub gdy uwiêzione zostanie trzydzieœci poziomów czarów
+Obszar dzia³ania: u¿ytkownik
+
+Obra¿enia: 2k6 +2
+TraK0: +2
+Typ obra¿eñ: obuchowe
+OpóŸnienie: 1
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+
+Wymagania:
+– Si³a: 5
+
+Waga: 3~
+
+
+@133 = ~Rêkawice magów~
+@135 = ~Rêkawice magów nale¿a³y do zestawu artefaktów stworzonych przez Erevaina Beraskana, by uczyniæ z pewnego starzej¹cego siê maga istotê ponadprzeciêtn¹.
+
+Wedle zachowanych zapisków trafi³y w rêce Firkraaga za poœrednictwem dawnego mistrza Constera, Malchimera – poprzedniego doradcy smoka, nekromanty powi¹zanego z Candlekeep, sk¹d regularnie dostarcza³ pradawne ksiêgi elfickiemu Najwy¿szemu Magowi, Erevainowi. Jest wysoce prawdopodobne, ¿e cen¹ tej pomocy by³y te rêkawice.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Pozwala zapamiêtaæ po jednym dodatkowym zaklêciu maga ka¿dego poziomu
+– Niewra¿liwoœæ na cios w plecy
+
+Waga: 1~
+
+
+@137 = ~Diadem magów~
+@139 = ~Diadem magów to jedno z wczeœniejszych arcydzie³ Erevaina Beraskany. Artefakt pe³ni³ rolê narzêdzia selekcji uczniów, gdy¿ wymaga³ od nosiciela niezwyk³ej bystroœci umys³u.
+
+W Candlekeep Erevain przyj¹³ na ucznia cz³owieka – Vithala – co stanowi³o nies³ychane odstêpstwo od elfich zwyczajów. Choæ – zgodnie z obyczajami swego ludu – nie naucza³ go wysokiej magii, to wyuczy³ go podstaw tradycyjnego rzemios³a magicznego. Nie tylko rasa ucznia stanowi³a kuriozum, lecz tak¿e jego skrajny egocentryzm. Przyczyny wziêcia pod skrzyd³a s¹ nieznane, wiadomo jednak, ¿e to Erevain wys³a³ ucznia na skazan¹ na niepowodzenie wyprawê do Podmroku, gdzie mia³ zbadaæ istniej¹ce tam po³¹czenia ze Sferami ¿ywio³ów.
+
+Ci, którzy uwiêzili tam Vithala, zapewne przekazali artefakt w rêce Sendai.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Ug³osowienie
+– Infrawizja
+– Inteligencja: +1
+– Tarcza umys³u (niewra¿liwoœæ na og³upienie, okropne zauroczenie i podobne efekty)
+
+Wymagania:
+– Inteligencja: 18
+
+Waga: 1~
+
+
+@141 = ~Pas magów~
+@143 = ~Pas magów, podobnie jak inne elementy Regaliów, nie pozosta³ d³ugo w posiadaniu Erevaina Beraskany. O ile okolicznoœci utraty innych budzi³y w¹tpliwoœci do do rozstania z nimi wbrew woli maga, o tyle ten przypadek raczej nie pozostawia miejsca na domys³y. W czasie brutalnego najazdu drowów na lasy Tethyru Najwy¿szy Mag Suldanessellaru stan¹³ samotnie do walki, dzier¿¹c ju¿ tylko ten pas.
+
+Elficki zwiadowca, który by³ œwiadkiem zdarzenia, przekaza³ wieœæ o potê¿nym wybuchu skumulowanej magii, który unicestwi³ Erevaina. Jego cia³a nigdy nie odnaleziono, jednak zwiadowca ów twierdzi, ¿e gdy si³y drowów wycofa³y siê do Podmroku przed przybyciem z Suldanesselaru armii, na polu bitwy s³ychaæ by³o donoœny œmiech maga.
+
+Przyjê³o siê s¹dziæ, ¿e Matka Prze³o¿ona Ardulace przejê³a pas jako trofeum.
+
+Artefakt ten stanowi jeden z dziewiêciu elementów Regaliów magów. Plotki g³osz¹, ¿e pe³en zestaw u³atwia okie³znanie kaprysów dzikiej magii i wzmacnia odpornoœæ na ¿ywio³y.
+
+PARAMETRY:
+
+Specjalne:
+– Szybkoœæ rzucania zaklêæ: +1
+– Ochrona przed zwyk³ymi pociskami
+– Odpornoœæ na magiê: +25%
+
+Waga: 1~
+
+
+@144 = ~To ostatni element siedmioczêœciowego zestawu stworzonego przez Erevaina Beraskanê ponad dwa stulecia temu, a zarazem ten najpotê¿niej zaklêty. Zapewnia ochronê porównywaln¹ z pe³n¹ zbroj¹ p³ytow¹, pozostaj¹c przy tym niemal niewyczuwalny dla nosiciela.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: 1
+– Odpornoœæ na magiê: +50%
+– Wszystkie pozosta³e odpornoœci: +25%
+– Rzuty obronne: +2
+– Regeneracja: 3 punkty ¿ycia na rundê
+
+Waga: 3~
+
+
+@145 = ~Oto Amulet magów – jeden z kluczowych elementów kompletnego zestawu. By³ pierwszym artefaktem stworzonym przez Erevaina Beraskana i ju¿ wtedy zdradza³ ogrom mocy, jak¹ mia³ w sobie nosiæ ca³y komplet.
+
+Chroni u¿ytkownika przed wrogimi przemianami, skraca czas rzucania zaklêæ i znacz¹co zwiêksza odpornoœæ na magiê.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Odpornoœæ na magiê: +25%
+– Szybkoœæ rzucania zaklêæ: +3
+– Niewra¿liwoœæ na petryfikacjê
+– Niewra¿liwoœæ na zwyk³e bronie
+– Rzuty obronne: +1 przeciw polimorfii
+
+Waga: 0~
+
+
+@146 = ~Podobnie jak pozosta³e artefakty z tego zestawu, Buty magów powsta³y, by wspieraæ czarodzieja w nieustannej pogoni za doskona³oœci¹ umys³u. Przyspieszaj¹ inkantacje, wzmacniaj¹ odpornoœæ i oferuj¹ szereg dodatkowych, u¿ytecznych w³aœciwoœci.
+
+PARAMETRY:
+
+Specjalne:
+– Szybkoœæ rzucania zaklêæ: +2
+– Aura oczyszczana po ka¿dym rzuceniu czaru
+– Rzuty obronne: +2
+– Prêdkoœæ ruchu: +20%
+
+Waga: 2~
+
+
+@147 = ~Ten rodzaj kostura od wieków nierozerwalnie zwi¹zany jest z wizerunkiem czarodzieja, choæ sam przedmiot nale¿y do wielkich rzadkoœci. To jedno z najpotê¿niejszych narzêdzi, jakie mag mo¿e dzier¿yæ – kwintesencja d³ugich studiów i mistrzowskiego zaklinania.
+
+Kostur zapewnia niewidzialnoœæ, chroni przed zauroczeniem i z³em, a tak¿e pozwala w³adaæ potê¿nymi zdolnoœciami ofensywnymi i obronnymi.
+
+Pierwotnie stanowi³ czêœæ Regaliów magów, wykutych przed stuleciami przez elfiego arcymaga Erevaina Beraskanê.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Niewidzialnoœæ
+– Niewra¿liwoœæ na zauroczenie
+– Ochrona przed z³em
+– Rozproszenie magii po trafieniu
+– Uderza jak broñ +5
+
+Zdolnoœci aktywne:
+– Po³¹czenie Ognistej kuli i B³yskawicy, trzy razy dziennie
+Ognista kula: 10k6 obra¿eñ od ognia w promieniu 5 metrów (po³owa po rzucie obronnym przeciw czarom)
+B³yskawica: 10k6 obra¿eñ od elektrycznoœci przeciw wszystkim, którzy stoj¹ jej na drodze (po³owa po rzucie obronnym przeciw czarom)
+Zasiêg: 50 metrów
+
+– Pu³apka na czary, raz dziennie
+Czas dzia³ania: 8 godzin lub gdy uwiêzione zostanie trzydzieœci poziomów czarów
+Obszar dzia³ania: u¿ytkownik
+
+Obra¿enia: 1k6 +2
+TraK0: +2
+Typ obra¿eñ: obuchowe
+OpóŸnienie: 1
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+
+Wymagania:
+– Si³a: 5
+
+Waga: 4~
+
+
+@148 = ~Rêkawice magów nale¿a³y do oryginalnego zestawu Regaliów, stworzonego przez Erevaina Beraskanê z myœl¹ o przekraczaniu granic mo¿liwoœci pojedynczego czarodzieja.
+
+Zapewniaj¹ dodatkow¹ ochronê, poszerzaj¹ zdolnoœci zapamiêtywania czarów i chroni¹ przed zdradzieckimi atakami.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Pozwala zapamiêtaæ po dwa dodatkowe zaklêcia maga ka¿dego poziomu
+– Klasa Pancerza: +1
+– Niewra¿liwoœæ na cios w plecy
+
+Waga: 1~
+
+
+@149 = ~Diadem magów to jeden z mniej nasyconych magi¹ elementów Regaliów, lecz wci¹¿ niezwykle u¿yteczny. Zapewnia pe³n¹ ochronê przed broni¹ dystansow¹ oraz przyspiesza inkantacje.
+
+PARAMETRY:
+
+Specjalne:
+– Ug³osowienie
+– Infrawizja
+– Pozwala zapamiêtaæ trzy dodatkowe zaklêcia maga 8. i 9. poziomu
+– Klasa Pancerza: +1
+– Tarcza umys³u (odpornoœæ na og³upienie, okropne zauroczenie i podobne efekty)
+
+W³aœciwoœci ³adunków:
+– Og³upienie, raz dziennie
+
+Wymagania:
+– Inteligencja: 18
+
+Waga: 1~
+
+
+@150 = ~Ten pas, stanowi¹cy najmniej umagiczniony element Regaliów magów, skupia siê wy³¹cznie na ochronie i szybkoœci rzucania zaklêæ.
+
+PARAMETRY:
+
+Specjalne:
+– Szybkoœæ rzucania zaklêæ: +1
+– Ochrona przed pociskami
+
+Waga: 1~
+
+
+@153 = ~Ta tuba na zwoje, pozyskana bezpoœrednio od samego Erevaina Beraskany, potrafi przechowaæ dowoln¹ liczbê pergaminów, nie zdradzaj¹c najmniejszego œladu przepe³nienia.
+
+PARAMETRY:
+
+Waga: 2~
